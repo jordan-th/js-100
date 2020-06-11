@@ -1,0 +1,1 @@
+Completed exercises from Launch School, course JS100
